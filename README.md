@@ -23,5 +23,5 @@ In allegato l'esempio: GenericsExtends.
 <h2>Come tipo nei Metodi</h2>
 E' possibile utilizzare i generics come tipo in un metodo:</br>
 private static <T> stampa(T a){}</br>
-Posso utilizzare il metodo per stampare qualsiai tipo di valore passato
+Posso utilizzare il metodo per stampare qualsiasi tipo di valore passato
 In allegato esempio: GenericsMethot
